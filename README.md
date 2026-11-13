@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:6d28d9,100:a855f7&height=240&section=header&text=Johan%20Rodr%C3%ADguez&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FullStack%20%C2%B7%20Frontend%20%C2%B7%20UX%2FUI&descAlignY=60&descSize=20" alt="Johan Rodríguez" />
+<img src="assets/hero.svg" alt="Johan Rodríguez, FullStack, Frontend y UX/UI" width="100%" />
 
 <a href="https://johandev-portafolio.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=720&lines=Desarrollador+FullStack;Enfocado+en+Frontend;Dise%C3%B1o+UX%2FUI+premium;Angular+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Desarrollador FullStack, enfocado en Frontend y diseño UX/UI premium" />
@@ -92,6 +92,6 @@ Los nombres siguen un prefijo según el tipo de proyecto: `sistema-` para aplica
 
 Puedes ver mi trabajo y escribirme desde mi [portafolio](https://johandev-portafolio.vercel.app).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:2e1065&height=120&section=footer" alt="" />
+<img src="assets/footer.svg" alt="" width="100%" />
 
 </div>
