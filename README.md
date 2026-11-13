@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Johan%20Rodr%C3%ADguez&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20%C2%B7%20Frontend%20%C2%B7%20UX%2FUI&descAlignY=60&descSize=20" alt="Johan Rodríguez" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:6d28d9,100:a855f7&height=240&section=header&text=Johan%20Rodr%C3%ADguez&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FullStack%20%C2%B7%20Frontend%20%C2%B7%20UX%2FUI&descAlignY=60&descSize=20" alt="Johan Rodríguez" />
 
 <a href="https://johandev-portafolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&lines=Desarrollador+FullStack;Enfocado+en+Frontend;Dise%C3%B1o+UX%2FUI+premium;Angular+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Desarrollador FullStack, enfocado en Frontend y diseño UX/UI premium" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=720&lines=Desarrollador+FullStack;Enfocado+en+Frontend;Dise%C3%B1o+UX%2FUI+premium;Angular+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Desarrollador FullStack, enfocado en Frontend y diseño UX/UI premium" />
 </a>
 
 <br/>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-johandev--portafolio.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://johandev-portafolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-kiramman--mp3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiramman-mp3)
-![Visitas](https://komarev.com/ghpvc/?username=kiramman-mp3&label=Visitas&color=0e75b6&style=for-the-badge)
+[![Portafolio](https://img.shields.io/badge/Portafolio-johandev--portafolio.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://johandev-portafolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-kiramman--mp3-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiramman-mp3)
+![Visitas](https://komarev.com/ghpvc/?username=kiramman-mp3&label=Visitas&color=7c3aed&style=for-the-badge)
 
 </div>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kiramman-mp3&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha de contribuciones" />
+<img src="https://streak-stats.demolab.com?user=kiramman-mp3&hide_border=true&background=0d1117&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF" alt="Racha de contribuciones" />
 
 </div>
 
@@ -92,6 +92,6 @@ Los nombres siguen un prefijo según el tipo de proyecto: `sistema-` para aplica
 
 Puedes ver mi trabajo y escribirme desde mi [portafolio](https://johandev-portafolio.vercel.app).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:2e1065&height=120&section=footer" alt="" />
 
 </div>
