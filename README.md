@@ -31,7 +31,7 @@
       <img src="assets/stack.svg" alt="Stack que uso: lenguajes, frameworks, bases de datos, nube e infraestructura" width="400" />
     </td>
     <td align="center" valign="middle" width="50%">
-      <img src="assets/tecnologias.svg" alt="Gráfico de los lenguajes más usados" width="400" />
+      <img src="https://raw.githubusercontent.com/kiramman-mp3/kiramman-mp3/output/tecnologias.svg" alt="Gráfico de los lenguajes más usados" width="400" />
     </td>
   </tr>
 </table>
