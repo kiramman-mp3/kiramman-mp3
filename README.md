@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-johandev--portafolio.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://johandev-portafolio.vercel.app)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://johandev-portafolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-kiramman--mp3-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiramman-mp3)
 ![Visitas](https://komarev.com/ghpvc/?username=kiramman-mp3&label=Visitas&color=7c3aed&style=for-the-badge)
 
