@@ -64,14 +64,50 @@
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Qué hace | Tecnologías |
-|---|---|---|
-| [**sistema-gestion-aprendizaje-ia**](https://github.com/kiramman-mp3/sistema-gestion-aprendizaje-ia) | LMS sobre Moodle con un asistente de IA que planifica cursos desde el sílabo y responde sobre datos reales del curso. | Moodle, NestJS, TypeScript |
-| [**sistema-inventario-supermercado**](https://github.com/kiramman-mp3/sistema-inventario-supermercado) | Inventario por lotes (FEFO) y reservas con código de retiro para un supermercado. Web y dos apps móviles. [Demo](https://karen-portal.vercel.app) | Express, PostgreSQL, React, Expo |
-| [**sistema-control-agua-riego**](https://github.com/kiramman-mp3/sistema-control-agua-riego) | Gestión de la Junta de Agua y Riego La Jones: lotes, turnos de riego, cobros, multas y asambleas. [Sitio](https://juntalajones.com/) | Angular, Express, MySQL |
-| [**sistema-rol-pagos-erp**](https://github.com/kiramman-mp3/sistema-rol-pagos-erp) | Nómina para Ecuador con reglas de ley parametrizables (IESS, décimos, horas extras). [Demo](https://rol-pagos-ecuador.vercel.app) | Angular, Express, PostgreSQL |
-| [**sistema-promocion-docente**](https://github.com/kiramman-mp3/sistema-promocion-docente) | Trámite de promoción docente de la UTA con dictamen normativo, votación y resolución en PDF. | ASP.NET Core 8, React, SQL Server |
-| [**agente-proyectos**](https://github.com/kiramman-mp3/agente-proyectos) | Sistema multiagente que vigila Trello y GitHub y avisa de retrasos y bloqueos, con app móvil. | FastAPI, PostgreSQL, Expo |
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/kiramman-mp3/sistema-gestion-aprendizaje-ia"><img src="assets/proyectos/sistema-gestion-aprendizaje-ia.jpg" alt="Captura de sistema-gestion-aprendizaje-ia" width="400" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/sistema-gestion-aprendizaje-ia">sistema-gestion-aprendizaje-ia</a></b><br />
+      <sub>LMS sobre Moodle con un asistente de IA que planifica cursos desde el sílabo y responde sobre datos reales del curso.</sub><br />
+      <sub><code>Moodle · NestJS · TypeScript</code></sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/kiramman-mp3/sistema-inventario-supermercado"><img src="assets/proyectos/sistema-inventario-supermercado.jpg" alt="Captura de sistema-inventario-supermercado" width="400" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/sistema-inventario-supermercado">sistema-inventario-supermercado</a></b><br />
+      <sub>Inventario por lotes (FEFO) y reservas con código de retiro. Web y dos apps móviles.</sub><br />
+      <sub><code>Express · PostgreSQL · React · Expo</code> · <a href="https://karen-portal.vercel.app">Demo</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/kiramman-mp3/sistema-control-agua-riego"><img src="assets/proyectos/sistema-control-agua-riego.jpg" alt="Captura de sistema-control-agua-riego" width="400" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/sistema-control-agua-riego">sistema-control-agua-riego</a></b><br />
+      <sub>Gestión de la Junta de Agua y Riego La Jones: lotes, turnos de riego, cobros, multas y asambleas.</sub><br />
+      <sub><code>Angular · Express · MySQL</code> · <a href="https://juntalajones.com/">Demo</a></sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/kiramman-mp3/sistema-rol-pagos-erp"><img src="assets/proyectos/sistema-rol-pagos-erp.jpg" alt="Captura de sistema-rol-pagos-erp" width="400" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/sistema-rol-pagos-erp">sistema-rol-pagos-erp</a></b><br />
+      <sub>Nómina para Ecuador con reglas de ley parametrizables: IESS, décimos y horas extras.</sub><br />
+      <sub><code>Angular · Express · PostgreSQL</code> · <a href="https://rol-pagos-ecuador.vercel.app">Demo</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/kiramman-mp3/sistema-ecommerce-local"><img src="assets/proyectos/sistema-ecommerce-local.jpg" alt="Captura de sistema-ecommerce-local" width="400" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/sistema-ecommerce-local">sistema-ecommerce-local</a></b><br />
+      <sub>TunguMarket: marketplace local para PyMEs de Tungurahua con carrito multivendedor y billetera virtual.</sub><br />
+      <sub><code>Express · PostgreSQL · React · Expo</code> · <a href="https://tungu-market.vercel.app">Demo</a></sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/kiramman-mp3/web-wiki-minecraft"><img src="assets/proyectos/web-wiki-minecraft.jpg" alt="Captura de web-wiki-minecraft" width="400" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/web-wiki-minecraft">web-wiki-minecraft</a></b><br />
+      <sub>Enciclopedia de Minecraft con bloques, mobs, crafteos y pociones, con estética fiel al juego.</sub><br />
+      <sub><code>HTML · CSS · JavaScript</code> · <a href="https://kiramman-mp3.github.io/web-wiki-minecraft/">Demo</a></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -81,9 +117,9 @@ Los nombres siguen un prefijo según el tipo de proyecto: `sistema-` para aplica
 
 | Tipo | Repositorios |
 |---|---|
-| **Sistemas** | [`sistema-ecommerce-local`](https://github.com/kiramman-mp3/sistema-ecommerce-local)<br>[`sistema-gestion-deportiva`](https://github.com/kiramman-mp3/sistema-gestion-deportiva)<br>[`sistema-gestion-eventos-academicos`](https://github.com/kiramman-mp3/sistema-gestion-eventos-academicos)<br>[`sistema-rastreo-buses`](https://github.com/kiramman-mp3/sistema-rastreo-buses)<br>[`sistema-alquiler-vehiculos`](https://github.com/kiramman-mp3/sistema-alquiler-vehiculos) |
+| **Sistemas** | [`sistema-ecommerce-local`](https://github.com/kiramman-mp3/sistema-ecommerce-local)<br>[`sistema-gestion-deportiva`](https://github.com/kiramman-mp3/sistema-gestion-deportiva)<br>[`sistema-gestion-eventos-academicos`](https://github.com/kiramman-mp3/sistema-gestion-eventos-academicos)<br>[`sistema-rastreo-buses`](https://github.com/kiramman-mp3/sistema-rastreo-buses)<br>[`sistema-alquiler-vehiculos`](https://github.com/kiramman-mp3/sistema-alquiler-vehiculos)<br>[`sistema-promocion-docente`](https://github.com/kiramman-mp3/sistema-promocion-docente) |
 | **Web** | [`web-portafolio-personal`](https://github.com/kiramman-mp3/web-portafolio-personal)<br>[`web-portal-investigacion`](https://github.com/kiramman-mp3/web-portal-investigacion)<br>[`web-wiki-minecraft`](https://github.com/kiramman-mp3/web-wiki-minecraft)<br>[`web-scrollytelling-facturas`](https://github.com/kiramman-mp3/web-scrollytelling-facturas) |
-| **Agentes y apps** | [`agente-atencion-cursos`](https://github.com/kiramman-mp3/agente-atencion-cursos)<br>[`app-calculadora-emergencia`](https://github.com/kiramman-mp3/app-calculadora-emergencia) |
+| **Agentes y apps** | [`agente-proyectos`](https://github.com/kiramman-mp3/agente-proyectos)<br>[`agente-atencion-cursos`](https://github.com/kiramman-mp3/agente-atencion-cursos)<br>[`app-calculadora-emergencia`](https://github.com/kiramman-mp3/app-calculadora-emergencia) |
 
 ---
 
