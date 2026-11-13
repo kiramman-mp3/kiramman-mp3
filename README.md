@@ -111,18 +111,6 @@
 
 ---
 
-## 📂 Todos mis repositorios
-
-Los nombres siguen un prefijo según el tipo de proyecto: `sistema-` para aplicaciones de gestión, `web-` para sitios, `agente-` para agentes de IA y `app-` para apps móviles.
-
-| Tipo | Repositorios |
-|---|---|
-| **Sistemas** | [`sistema-ecommerce-local`](https://github.com/kiramman-mp3/sistema-ecommerce-local)<br>[`sistema-gestion-deportiva`](https://github.com/kiramman-mp3/sistema-gestion-deportiva)<br>[`sistema-gestion-eventos-academicos`](https://github.com/kiramman-mp3/sistema-gestion-eventos-academicos)<br>[`sistema-rastreo-buses`](https://github.com/kiramman-mp3/sistema-rastreo-buses)<br>[`sistema-alquiler-vehiculos`](https://github.com/kiramman-mp3/sistema-alquiler-vehiculos) |
-| **Web** | [`web-portafolio-personal`](https://github.com/kiramman-mp3/web-portafolio-personal)<br>[`web-portal-investigacion`](https://github.com/kiramman-mp3/web-portal-investigacion)<br>[`web-wiki-minecraft`](https://github.com/kiramman-mp3/web-wiki-minecraft)<br>[`web-scrollytelling-facturas`](https://github.com/kiramman-mp3/web-scrollytelling-facturas) |
-| **Agentes y apps** | [`agente-proyectos`](https://github.com/kiramman-mp3/agente-proyectos)<br>[`agente-atencion-cursos`](https://github.com/kiramman-mp3/agente-atencion-cursos)<br>[`app-calculadora-emergencia`](https://github.com/kiramman-mp3/app-calculadora-emergencia) |
-
----
-
 ## 📫 Contacto
 
 <div align="center">
