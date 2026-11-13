@@ -41,12 +41,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kiramman-mp3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiramman-mp3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" />
-
 <img src="https://streak-stats.demolab.com?user=kiramman-mp3&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha de contribuciones" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiramman-mp3&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Gráfica de actividad" />
 
 </div>
 
