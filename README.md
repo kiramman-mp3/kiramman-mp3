@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Johan%20Rodr%C3%ADguez&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20%C2%B7%20M%C3%B3vil%20%C2%B7%20IA&descAlignY=60&descSize=20" alt="Johan Rodríguez" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Johan%20Rodr%C3%ADguez&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20%C2%B7%20Frontend%20%C2%B7%20UX%2FUI&descAlignY=60&descSize=20" alt="Johan Rodríguez" />
 
 <a href="https://johandev-portafolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&lines=Desarrollador+de+software+en+Ecuador;Sistemas+web+y+m%C3%B3viles+de+punta+a+punta;Angular+%C2%B7+React+%C2%B7+Node+%C2%B7+NestJS+%C2%B7+.NET;Resolviendo+problemas+reales+en+Tungurahua" alt="Desarrollador de software en Ecuador" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&lines=Desarrollador+FullStack;Enfocado+en+Frontend;Dise%C3%B1o+UX%2FUI+premium;Angular+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Desarrollador FullStack, enfocado en Frontend y diseño UX/UI premium" />
 </a>
 
 <br/>
