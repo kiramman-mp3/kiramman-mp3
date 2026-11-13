@@ -51,7 +51,7 @@ def render(totals):
     for name, _ in items:
         colors[name] = OTHERS if name == "Otros" else COLORS.get(name) or next(spare, OTHERS)
 
-    width, height, cx, cy, r, sw = 460, 390, 118, 215, 72, 34
+    width, height, cx, cy, r, sw = 460, 460, 122, 255, 80, 36
     circ = 2 * math.pi * r
     segments, rows, offset = [], [], 0.0
     for i, (name, value) in enumerate(items):
@@ -64,13 +64,13 @@ def render(totals):
             f'dur="0.7s" begin="{0.15 * i:.2f}s" fill="freeze"/>\n    </circle>'
         )
         offset += length
-        y = 132 + i * 26
+        y = 150 + i * 30
         label = name.replace("&", "&amp;").replace("#", "&#35;")
         rows.append(
             f'    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="{0.15 * i + 0.3:.2f}s" fill="freeze"/>\n'
             f'      <rect x="236" y="{y - 11}" width="12" height="12" rx="3" fill="{colors[name]}"/>\n'
-            f'      <text x="258" y="{y}" font-size="14" fill="#e6edf3">{label}</text>\n'
-            f'      <text x="436" y="{y}" font-size="14" fill="#a78bfa" text-anchor="end" font-weight="600">{100 * value / total:.1f}%</text>\n'
+            f'      <text x="258" y="{y}" font-size="15" fill="#e6edf3">{label}</text>\n'
+            f'      <text x="436" y="{y}" font-size="15" fill="#a78bfa" text-anchor="end" font-weight="600">{100 * value / total:.1f}%</text>\n'
             f"    </g>"
         )
     summary = ", ".join(f"{n} {100 * v / total:.1f}%" for n, v in items)
