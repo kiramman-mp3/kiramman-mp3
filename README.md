@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="50%">
-      <img src="https://skillicons.dev/icons?i=ts,js,py,php,cs,angular,react,vite,tailwind,nodejs,express,nestjs,fastapi,laravel,dotnet,postgres,mysql,prisma,docker,vercel,azure,githubactions,playwright&perline=6" alt="Tecnologías que uso" />
+      <img src="https://skillicons.dev/icons?i=ts,js,py,php,cs,angular,react,vite,tailwind,nodejs,express,nestjs,fastapi,laravel,dotnet,postgres,mysql,prisma,docker,vercel,azure,githubactions&perline=6" alt="Tecnologías que uso" />
     </td>
     <td align="center" valign="middle" width="50%">
       <img src="assets/tecnologias.svg" alt="Gráfico de las tecnologías más usadas" width="400" />
