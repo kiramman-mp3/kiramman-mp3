@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="310" viewBox="0 0 460 310" role="img" aria-label="Tecnologías más usadas: TypeScript 45.7%, JavaScript 25.1%, PHP 7.3%, Python 7.2%, HTML 4.6%, CSS 3.1%, C# 2.4%, SCSS 2.0%, Otros 2.5%">
+  <title>Tecnologías más usadas</title>
+  <rect x="0.5" y="0.5" width="459" height="309" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="24" y="38" font-size="18" font-weight="700" fill="#c4b5fd">Tecnologías más usadas</text>
+    <circle cx="118" cy="172" r="72" fill="none" stroke="#161b22" stroke-width="34"/>
+    <circle cx="118" cy="172" r="72" fill="none" stroke="#3178c6" stroke-width="34" stroke-dasharray="0 452.39" stroke-dashoffset="-0.00" transform="rotate(-90 118 172)">
+      <animate attributeName="stroke-dasharray" from="0 452.39" to="205.05 247.34" dur="0.7s" begin="0.00s" fill="freeze"/>
+    </circle>
+    <circle cx="118" cy="172" r="72" fill="none" stroke="#f1e05a" stroke-width="34" stroke-dasharray="0 452.39" stroke-dashoffset="-206.65" transform="rotate(-90 118 172)">
+      <animate attributeName="stroke-dasharray" from="0 452.39" to="112.07 340.32" dur="0.7s" begin="0.15s" fill="freeze"/>
+    </circle>
+    <circle cx="118" cy="172" r="72" fill="none" stroke="#8892bf" stroke-width="34" stroke-dasharray="0 452.39" stroke-dashoffset="-320.32" transform="rotate(-90 118 172)">
+      <animate attributeName="stroke-dasharray" from="0 452.39" to="31.56 420.83" dur="0.7s" begin="0.30s" fill="freeze"/>
+    </circle>
+    <circle cx="118" cy="172" r="72" fill="none" stroke="#4584b6" stroke-width="34" stroke-dasharray="0 452.39" stroke-dashoffset="-353.48" transform="rotate(-90 118 172)">
+      <animate attributeName="stroke-dasharray" from="0 452.39" to="31.00 421.39" dur="0.7s" begin="0.45s" fill="freeze"/>
+    </circle>
+    <circle cx="118" cy="172" r="72" fill="none" stroke="#e34c26" stroke-width="34" stroke-dasharray="0 452.39" stroke-dashoffset="-386.08" transform="rotate(-90 118 172)">
+      <animate attributeName="stroke-dasharray" from="0 452.39" to="19.36 433.03" dur="0.7s" begin="0.60s" fill="freeze"/>
+    </circle>
+    <circle cx="118" cy="172" r="72" fill="none" stroke="#9b6dd6" stroke-width="34" stroke-dasharray="0 452.39" stroke-dashoffset="-407.03" transform="rotate(-90 118 172)">
+      <animate attributeName="stroke-dasharray" from="0 452.39" to="12.59 439.80" dur="0.7s" begin="0.75s" fill="freeze"/>
+    </circle>
+    <circle cx="118" cy="172" r="72" fill="none" stroke="#3fae2a" stroke-width="34" stroke-dasharray="0 452.39" stroke-dashoffset="-421.23" transform="rotate(-90 118 172)">
+      <animate attributeName="stroke-dasharray" from="0 452.39" to="9.24 443.15" dur="0.7s" begin="0.90s" fill="freeze"/>
+    </circle>
+    <circle cx="118" cy="172" r="72" fill="none" stroke="#c6538c" stroke-width="34" stroke-dasharray="0 452.39" stroke-dashoffset="-432.06" transform="rotate(-90 118 172)">
+      <animate attributeName="stroke-dasharray" from="0 452.39" to="7.49 444.90" dur="0.7s" begin="1.05s" fill="freeze"/>
+    </circle>
+    <circle cx="118" cy="172" r="72" fill="none" stroke="#8b949e" stroke-width="34" stroke-dasharray="0 452.39" stroke-dashoffset="-441.15" transform="rotate(-90 118 172)">
+      <animate attributeName="stroke-dasharray" from="0 452.39" to="9.64 442.75" dur="0.7s" begin="1.20s" fill="freeze"/>
+    </circle>
+    <text x="118" y="170" font-size="13" fill="#8b949e" text-anchor="middle">% del código</text>
+    <text x="118" y="188" font-size="13" fill="#8b949e" text-anchor="middle">en mis repos</text>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.30s" fill="freeze"/>
+      <rect x="236" y="85" width="12" height="12" rx="3" fill="#3178c6"/>
+      <text x="258" y="96" font-size="14" fill="#e6edf3">TypeScript</text>
+      <text x="436" y="96" font-size="14" fill="#a78bfa" text-anchor="end" font-weight="600">45.7%</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.45s" fill="freeze"/>
+      <rect x="236" y="109" width="12" height="12" rx="3" fill="#f1e05a"/>
+      <text x="258" y="120" font-size="14" fill="#e6edf3">JavaScript</text>
+      <text x="436" y="120" font-size="14" fill="#a78bfa" text-anchor="end" font-weight="600">25.1%</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
+      <rect x="236" y="133" width="12" height="12" rx="3" fill="#8892bf"/>
+      <text x="258" y="144" font-size="14" fill="#e6edf3">PHP</text>
+      <text x="436" y="144" font-size="14" fill="#a78bfa" text-anchor="end" font-weight="600">7.3%</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.75s" fill="freeze"/>
+      <rect x="236" y="157" width="12" height="12" rx="3" fill="#4584b6"/>
+      <text x="258" y="168" font-size="14" fill="#e6edf3">Python</text>
+      <text x="436" y="168" font-size="14" fill="#a78bfa" text-anchor="end" font-weight="600">7.2%</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.90s" fill="freeze"/>
+      <rect x="236" y="181" width="12" height="12" rx="3" fill="#e34c26"/>
+      <text x="258" y="192" font-size="14" fill="#e6edf3">HTML</text>
+      <text x="436" y="192" font-size="14" fill="#a78bfa" text-anchor="end" font-weight="600">4.6%</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.05s" fill="freeze"/>
+      <rect x="236" y="205" width="12" height="12" rx="3" fill="#9b6dd6"/>
+      <text x="258" y="216" font-size="14" fill="#e6edf3">CSS</text>
+      <text x="436" y="216" font-size="14" fill="#a78bfa" text-anchor="end" font-weight="600">3.1%</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.20s" fill="freeze"/>
+      <rect x="236" y="229" width="12" height="12" rx="3" fill="#3fae2a"/>
+      <text x="258" y="240" font-size="14" fill="#e6edf3">C&#35;</text>
+      <text x="436" y="240" font-size="14" fill="#a78bfa" text-anchor="end" font-weight="600">2.4%</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.35s" fill="freeze"/>
+      <rect x="236" y="253" width="12" height="12" rx="3" fill="#c6538c"/>
+      <text x="258" y="264" font-size="14" fill="#e6edf3">SCSS</text>
+      <text x="436" y="264" font-size="14" fill="#a78bfa" text-anchor="end" font-weight="600">2.0%</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.50s" fill="freeze"/>
+      <rect x="236" y="277" width="12" height="12" rx="3" fill="#8b949e"/>
+      <text x="258" y="288" font-size="14" fill="#e6edf3">Otros</text>
+      <text x="436" y="288" font-size="14" fill="#a78bfa" text-anchor="end" font-weight="600">2.5%</text>
+    </g>
+  </g>
+</svg>
