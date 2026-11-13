@@ -1,23 +1,68 @@
-# 👋 Hola, soy Johan Rodríguez
+<div align="center">
 
-**Desarrollador de software en Ecuador.** Construyo sistemas web y móviles de punta a punta: desde la base de datos y la API hasta la interfaz, el despliegue y la documentación. Mis proyectos resuelven problemas reales de organizaciones de Tungurahua: una junta de agua, un supermercado, una liga deportiva, una universidad.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Johan%20Rodr%C3%ADguez&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20%C2%B7%20M%C3%B3vil%20%C2%B7%20IA&descAlignY=60&descSize=20" alt="Johan Rodríguez" />
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-johandev--portafolio.vercel.app-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://johandev-portafolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-kiramman--mp3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kiramman-mp3)
+<a href="https://johandev-portafolio.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&lines=Desarrollador+de+software+en+Ecuador;Sistemas+web+y+m%C3%B3viles+de+punta+a+punta;Angular+%C2%B7+React+%C2%B7+Node+%C2%B7+NestJS+%C2%B7+.NET;Resolviendo+problemas+reales+en+Tungurahua" alt="Desarrollador de software en Ecuador" />
+</a>
+
+<br/>
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-johandev--portafolio.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://johandev-portafolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-kiramman--mp3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiramman-mp3)
+![Visitas](https://komarev.com/ghpvc/?username=kiramman-mp3&label=Visitas&color=0e75b6&style=for-the-badge)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🏗️ Construyo sistemas web y móviles de punta a punta: base de datos, API, interfaz, despliegue y documentación.
+- 🌎 Mis proyectos resuelven problemas reales de organizaciones de Tungurahua: una junta de agua, un supermercado, una liga deportiva y una universidad.
+- 🤝 Trabajo en equipo con Git Flow (`main`, `develop`, `feature/*`) y Conventional Commits.
+- 🧪 Cuido la calidad con pruebas, integración continua y pruebas end-to-end con Playwright.
 
 ---
 
 ## 🛠️ Tecnologías
 
-| Área | Con lo que trabajo |
-|---|---|
-| **Lenguajes** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Móvil** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **Bases de datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **Despliegue y pruebas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
-| **Plataformas** | ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white) |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,cs,angular,react,vite,tailwind,nodejs,express,nestjs&perline=12" alt="Lenguajes, frontend y backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,laravel,dotnet,postgres,mysql,prisma,docker,vercel,azure,githubactions,playwright&perline=12" alt="Frameworks, bases de datos y despliegue" />
+
+</div>
+
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kiramman-mp3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiramman-mp3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" />
+
+<img src="https://streak-stats.demolab.com?user=kiramman-mp3&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha de contribuciones" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiramman-mp3&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Gráfica de actividad" />
+
+</div>
+
+---
+
+## 🐍 Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiramman-mp3/kiramman-mp3/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiramman-mp3/kiramman-mp3/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente comiendo mis contribuciones" src="https://raw.githubusercontent.com/kiramman-mp3/kiramman-mp3/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -40,12 +85,18 @@ Los nombres siguen un prefijo según el tipo de proyecto: `sistema-` para aplica
 
 | Tipo | Repositorios |
 |---|---|
-| **Sistemas** | [`sistema-ecommerce-local`](https://github.com/kiramman-mp3/sistema-ecommerce-local) · [`sistema-gestion-deportiva`](https://github.com/kiramman-mp3/sistema-gestion-deportiva) · [`sistema-gestion-eventos-academicos`](https://github.com/kiramman-mp3/sistema-gestion-eventos-academicos) · [`sistema-rastreo-buses`](https://github.com/kiramman-mp3/sistema-rastreo-buses) · [`sistema-alquiler-vehiculos`](https://github.com/kiramman-mp3/sistema-alquiler-vehiculos) |
-| **Web** | [`web-portafolio-personal`](https://github.com/kiramman-mp3/web-portafolio-personal) · [`web-portal-investigacion`](https://github.com/kiramman-mp3/web-portal-investigacion) · [`web-wiki-minecraft`](https://github.com/kiramman-mp3/web-wiki-minecraft) · [`web-scrollytelling-facturas`](https://github.com/kiramman-mp3/web-scrollytelling-facturas) |
-| **Agentes y apps** | [`agente-atencion-cursos`](https://github.com/kiramman-mp3/agente-atencion-cursos) · [`app-calculadora-emergencia`](https://github.com/kiramman-mp3/app-calculadora-emergencia) |
+| **Sistemas** | [`sistema-ecommerce-local`](https://github.com/kiramman-mp3/sistema-ecommerce-local)<br>[`sistema-gestion-deportiva`](https://github.com/kiramman-mp3/sistema-gestion-deportiva)<br>[`sistema-gestion-eventos-academicos`](https://github.com/kiramman-mp3/sistema-gestion-eventos-academicos)<br>[`sistema-rastreo-buses`](https://github.com/kiramman-mp3/sistema-rastreo-buses)<br>[`sistema-alquiler-vehiculos`](https://github.com/kiramman-mp3/sistema-alquiler-vehiculos) |
+| **Web** | [`web-portafolio-personal`](https://github.com/kiramman-mp3/web-portafolio-personal)<br>[`web-portal-investigacion`](https://github.com/kiramman-mp3/web-portal-investigacion)<br>[`web-wiki-minecraft`](https://github.com/kiramman-mp3/web-wiki-minecraft)<br>[`web-scrollytelling-facturas`](https://github.com/kiramman-mp3/web-scrollytelling-facturas) |
+| **Agentes y apps** | [`agente-atencion-cursos`](https://github.com/kiramman-mp3/agente-atencion-cursos)<br>[`app-calculadora-emergencia`](https://github.com/kiramman-mp3/app-calculadora-emergencia) |
 
 ---
 
 ## 📫 Contacto
 
+<div align="center">
+
 Puedes ver mi trabajo y escribirme desde mi [portafolio](https://johandev-portafolio.vercel.app).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="" />
+
+</div>
