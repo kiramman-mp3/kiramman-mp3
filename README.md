@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:6d28d9,100:a855f7&height=240&section=header&text=Johan%20Rodr%C3%ADguez&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FullStack%20%C2%B7%20Frontend%20%C2%B7%20UX%2FUI&descAlignY=60&descSize=20" alt="Johan Rodríguez" />
 
-<a href="https://johandev-portafolio.vercel.app">
+<a href="https://madebyjohan.xyz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=720&lines=Desarrollador+FullStack;Enfocado+en+Frontend;Dise%C3%B1o+UX%2FUI+premium;Angular+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Desarrollador FullStack, enfocado en Frontend y diseño UX/UI premium" />
 </a>
 
 <br/>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://johandev-portafolio.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-kiramman--mp3-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiramman-mp3) ![Visitas](https://komarev.com/ghpvc/?username=kiramman-mp3&label=Visitas&color=7c3aed&style=for-the-badge)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white)](https://madebyjohan.xyz) [![GitHub](https://img.shields.io/badge/GitHub-kiramman--mp3-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiramman-mp3) ![Visitas](https://komarev.com/ghpvc/?username=kiramman-mp3&label=Visitas&color=7c3aed&style=for-the-badge)
 
 </div>
 
@@ -76,7 +76,7 @@
       <a href="https://github.com/kiramman-mp3/sistema-inventario-supermercado"><img src="assets/proyectos/sistema-inventario-supermercado.jpg" alt="Captura de sistema-inventario-supermercado" width="400" /></a><br />
       <b><a href="https://github.com/kiramman-mp3/sistema-inventario-supermercado">sistema-inventario-supermercado</a></b><br />
       <sub>Inventario por lotes (FEFO) y reservas con código de retiro. Web y dos apps móviles.</sub><br />
-      <sub><code>Express · PostgreSQL · React · Expo</code> · <a href="https://karen-portal.vercel.app">Demo</a></sub>
+      <sub><code>Express · PostgreSQL · React · Expo</code> · <a href="https://karen.madebyjohan.xyz">Demo</a></sub>
     </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@
       <a href="https://github.com/kiramman-mp3/sistema-rol-pagos-erp"><img src="assets/proyectos/sistema-rol-pagos-erp.jpg" alt="Captura de sistema-rol-pagos-erp" width="400" /></a><br />
       <b><a href="https://github.com/kiramman-mp3/sistema-rol-pagos-erp">sistema-rol-pagos-erp</a></b><br />
       <sub>Nómina para Ecuador con reglas de ley parametrizables: IESS, décimos y horas extras.</sub><br />
-      <sub><code>Angular · Express · PostgreSQL</code> · <a href="https://rol-pagos-ecuador.vercel.app">Demo</a></sub>
+      <sub><code>Angular · Express · PostgreSQL</code> · <a href="https://nomina.madebyjohan.xyz">Demo</a></sub>
     </td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@
 
 <div align="center">
 
-Puedes ver mi trabajo y escribirme desde mi [portafolio](https://johandev-portafolio.vercel.app).
+Puedes ver mi trabajo y escribirme desde mi [portafolio](https://madebyjohan.xyz).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:2e1065&height=120&section=footer" alt="" />
 
