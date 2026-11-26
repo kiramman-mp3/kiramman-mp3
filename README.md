@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-madebyjohan.xyz-F2575B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://madebyjohan.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-johan--rodriguez--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-rodriguez-dev/)
-[![CV](https://img.shields.io/badge/CV-PDF-5C1A1F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://madebyjohan.xyz/cv-johan-rodriguez-es.pdf)
-[![English](https://img.shields.io/badge/English-version-30363D?style=for-the-badge&logo=googletranslate&logoColor=white)](https://madebyjohan.xyz/en)
+[![Portafolio](assets/insignias/portafolio.svg)](https://madebyjohan.xyz)
+[![LinkedIn](assets/insignias/linkedin.svg)](https://www.linkedin.com/in/johan-rodriguez-dev/)
+[![CV](assets/insignias/cv.svg)](https://madebyjohan.xyz/cv-johan-rodriguez-es.pdf)
+[![English](assets/insignias/english.svg)](https://madebyjohan.xyz/en)
 
 </div>
 
