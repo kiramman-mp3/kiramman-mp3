@@ -70,7 +70,7 @@ def render(totals):
             f'    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="{0.15 * i + 0.3:.2f}s" fill="freeze"/>\n'
             f'      <rect x="236" y="{y - 11}" width="12" height="12" rx="3" fill="{colors[name]}"/>\n'
             f'      <text x="258" y="{y}" font-size="15" fill="#e6edf3">{label}</text>\n'
-            f'      <text x="436" y="{y}" font-size="15" fill="#a78bfa" text-anchor="end" font-weight="600">{100 * value / total:.1f}%</text>\n'
+            f'      <text x="436" y="{y}" font-size="15" fill="#f2959a" text-anchor="end" font-weight="600">{100 * value / total:.1f}%</text>\n'
             f"    </g>"
         )
     summary = ", ".join(f"{n} {100 * v / total:.1f}%" for n, v in items)
@@ -78,7 +78,7 @@ def render(totals):
   <title>Lenguajes más usados</title>
   <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="14" fill="#0d1117" stroke="#30363d"/>
   <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
-    <text x="24" y="38" font-size="18" font-weight="700" fill="#c4b5fd">Lenguajes más usados</text>
+    <text x="24" y="38" font-size="18" font-weight="700" fill="#f2575b">Lenguajes más usados</text>
     <circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="#161b22" stroke-width="{sw}"/>
 {chr(10).join(segments)}
     <text x="{cx}" y="{cy - 2}" font-size="13" fill="#8b949e" text-anchor="middle">% del código</text>
