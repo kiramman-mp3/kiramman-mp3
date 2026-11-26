@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#c7404a&color_dots=#ebedf0,#f7c6c8,#f2959a,#e8616a,#c7404a
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f2575b&color_dots=#161b22,#5c1a1f,#8f2a30,#c7404a,#f2575b
 
       - name: Generate the language chart
         env:
