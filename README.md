@@ -1,78 +1,122 @@
-### Johan Rodríguez
+<div align="center">
 
-Full Stack developer · TypeScript (Angular, React, Node.js) · Ambato, Ecuador
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0405,55:5c1a1f,100:f2575b&height=230&section=header&text=Johan%20Rodr%C3%ADguez&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%C2%B7%20TypeScript&descAlignY=58&descSize=20" alt="Johan Rodríguez, Desarrollador Full Stack" />
 
-I build systems that real organizations in Tungurahua use: a water and irrigation board, a supermarket and a sports league. I work with TypeScript end to end, write tests and CI from the start, and deploy to my own server.
+<a href="https://madebyjohan.xyz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=F2575B&center=true&vCenter=true&width=640&lines=Desarrollador+Full+Stack;Angular+%C2%B7+React+%C2%B7+Node.js;Sistemas+en+producci%C3%B3n+en+Tungurahua;Despliego+en+mi+propio+servidor" alt="Desarrollador Full Stack con Angular, React y Node.js" />
+</a>
 
-[Portfolio](https://madebyjohan.xyz) · [English](https://madebyjohan.xyz/en) · [LinkedIn](https://www.linkedin.com/in/johan-rodriguez-dev/) · [CV (PDF)](https://madebyjohan.xyz/cv-johan-rodriguez-es.pdf)
+<br/><br/>
+
+[![Portafolio](assets/insignias/portafolio.svg)](https://madebyjohan.xyz)
+[![LinkedIn](assets/insignias/linkedin.svg)](https://www.linkedin.com/in/johan-rodriguez-dev/)
+[![CV](assets/insignias/cv.svg)](https://madebyjohan.xyz/cv-johan-rodriguez-es.pdf)
+[![English](assets/insignias/english.svg)](https://madebyjohan.xyz/en)
+
+</div>
 
 ---
 
-#### Experience
+### 👨‍💻 Sobre mí
 
-- **Junta de Agua y Riego La Jones** (Aug 2026 – present): tech lead of a team of 10. A web system that replaced the shift and payment notebooks: 150 users and 4 board members, approved after training. [juntalajones.com](https://juntalajones.com/)
-- **Supermercado Karen** (Sep 2026 – present, freelance): tech lead in a team of 4. Batch inventory with FEFO, reservations with pickup codes and three apps, in a full pilot at the store.
-- **Liga Cantonal de Quero** (volunteer): sports management platform in development, with tests and CI from day one. Launch in 2027.
+Construyo y mantengo sistemas que usan organizaciones reales de Tungurahua, Ecuador: una junta de riego, un supermercado y una liga deportiva. Trabajo con TypeScript de punta a punta, escribo pruebas e integración continua desde el inicio y despliego en mi propio servidor. Estudio Ingeniería de Software en la Universidad Técnica de Ambato.
 
-#### Featured projects
+### 💼 Experiencia
+
+- **Junta de Agua y Riego La Jones** (ago 2026 – actualidad): líder técnico de un equipo de 10. Sistema web que reemplazó los cuadernos de turnos y cobros: 150 usuarios y 4 directivos, aprobado tras la capacitación. [juntalajones.com](https://juntalajones.com/)
+- **Supermercado Karen** (sep 2026 – actualidad, freelance): líder técnico en un equipo de 4. Inventario por lotes FEFO, reservas con código de retiro y tres aplicaciones, en piloto completo en el local.
+- **Liga Cantonal de Quero** (voluntario): plataforma de gestión deportiva en desarrollo, con pruebas y CI desde el inicio. Lanzamiento en 2027.
+
+---
+
+### 🚀 Proyectos destacados
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github.com/kiramman-mp3/sistema-control-agua-riego"><img src="assets/proyectos/sistema-control-agua-riego.jpg" alt="Junta La Jones system" width="100%" /></a><br />
-      <b><a href="https://github.com/kiramman-mp3/sistema-control-agua-riego">Junta de Agua La Jones</a></b> · <a href="https://juntalajones.com/">live</a><br />
-      <sub>Irrigation shifts, community work with fines, payments with PDF receipts and a member portal. Playwright and CI.</sub><br />
-      <sub><code>Angular · Express · MySQL</code></sub>
+      <a href="https://github.com/kiramman-mp3/bifrost"><img src="assets/proyectos/bifrost.jpg" alt="Panel de BIFRÖST" width="100%" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/bifrost">BIFRÖST</a></b><br />
+      <sub>Subsistema Android de código abierto para Windows 11: cada app en su propia ventana. Hecho con desarrollo asistido por IA: especificación, revisión, 145 pruebas y CI.</sub><br />
+      <sub><code>Rust · Tauri 2 · QEMU/WHPX · AOSP</code></sub>
     </td>
     <td valign="top" width="50%">
-      <a href="https://github.com/kiramman-mp3/sistema-inventario-supermercado"><img src="assets/proyectos/sistema-inventario-supermercado.jpg" alt="Karen ecosystem" width="100%" /></a><br />
-      <b><a href="https://github.com/kiramman-mp3/sistema-inventario-supermercado">Supermercado Karen</a></b> · <a href="https://karen.madebyjohan.xyz">live</a><br />
-      <sub>FEFO inventory with expiry alerts, reservations with pickup codes, a web portal and two mobile apps.</sub><br />
-      <sub><code>Express · PostgreSQL · React · Expo</code></sub>
+      <a href="https://github.com/kiramman-mp3/sistema-control-agua-riego"><img src="assets/proyectos/sistema-control-agua-riego.jpg" alt="Sistema de la Junta La Jones" width="100%" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/sistema-control-agua-riego">Junta de Agua La Jones</a></b> · <a href="https://juntalajones.com/">en vivo</a><br />
+      <sub>Turnos de riego, mingas con multas, cobros con comprobante PDF y portal para los socios. Pruebas con Playwright y CI.</sub><br />
+      <sub><code>Angular · Express · MySQL</code></sub>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github.com/kiramman-mp3/sistema-rastreo-buses"><img src="assets/proyectos/sistema-rastreo-buses.jpg" alt="UTA bus portal" width="100%" /></a><br />
-      <b><a href="https://github.com/kiramman-mp3/sistema-rastreo-buses">UTA bus tracking</a></b> · <a href="https://buses.madebyjohan.xyz">live</a><br />
-      <sub>Tech lead (team of 2). Odoo 16 module with Traccar: live map, routes, stops and a driver tablet app.</sub><br />
+      <a href="https://github.com/kiramman-mp3/sistema-inventario-supermercado"><img src="assets/proyectos/sistema-inventario-supermercado.jpg" alt="Ecosistema Karen" width="100%" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/sistema-inventario-supermercado">Ecosistema Karen</a></b> · <a href="https://karen.madebyjohan.xyz">en vivo</a><br />
+      <sub>Inventario FEFO con alertas de caducidad, reservas con código de retiro, portal web y dos apps móviles.</sub><br />
+      <sub><code>React · React Native · Express · PostgreSQL</code></sub>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/kiramman-mp3/sistema-gestion-aprendizaje-ia"><img src="assets/proyectos/sistema-gestion-aprendizaje-ia.jpg" alt="LMS con asistente de IA" width="100%" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/sistema-gestion-aprendizaje-ia">LMS con asistente de IA</a></b> · <a href="https://lms.madebyjohan.xyz">en vivo</a><br />
+      <sub>Líder técnico (equipo de 3). Moodle 5.1 con un asistente que planifica el curso desde el sílabo y responde con datos reales.</sub><br />
+      <sub><code>NestJS · TypeScript · PostgreSQL · Moodle</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/kiramman-mp3/sistema-rastreo-buses"><img src="assets/proyectos/sistema-rastreo-buses.jpg" alt="Portal de buses UTA" width="100%" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/sistema-rastreo-buses">Rastreo de Buses UTA</a></b> · <a href="https://buses.madebyjohan.xyz">en vivo</a><br />
+      <sub>Líder técnico (equipo de 2). Módulo de Odoo 16 con Traccar: mapa en vivo, rutas, paradas y app de tableta para el chofer.</sub><br />
       <sub><code>Python · Odoo · PostgreSQL · React Native</code></sub>
     </td>
     <td valign="top" width="50%">
-      <a href="https://github.com/kiramman-mp3/sistema-gestion-aprendizaje-ia"><img src="assets/proyectos/sistema-gestion-aprendizaje-ia.jpg" alt="LMS with an AI assistant" width="100%" /></a><br />
-      <b><a href="https://github.com/kiramman-mp3/sistema-gestion-aprendizaje-ia">LMS with an AI assistant</a></b> · <a href="https://lms.madebyjohan.xyz">live</a><br />
-      <sub>Tech lead (team of 3). Moodle 5.1 with an assistant that plans the course from the syllabus and answers using real data.</sub><br />
-      <sub><code>NestJS · TypeScript · Moodle</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/kiramman-mp3/sistema-rol-pagos-erp"><img src="assets/proyectos/sistema-rol-pagos-erp.jpg" alt="Ecuador payroll" width="100%" /></a><br />
-      <b><a href="https://github.com/kiramman-mp3/sistema-rol-pagos-erp">Ecuador payroll</a></b> · <a href="https://nomina.madebyjohan.xyz">live</a><br />
-      <sub>Configurable labor rules: employment regimes, minimum wage, 13th/14th salaries, overtime and IESS.</sub><br />
+      <a href="https://github.com/kiramman-mp3/sistema-rol-pagos-erp"><img src="assets/proyectos/sistema-rol-pagos-erp.jpg" alt="Rol de pagos Ecuador" width="100%" /></a><br />
+      <b><a href="https://github.com/kiramman-mp3/sistema-rol-pagos-erp">Rol de Pagos Ecuador</a></b> · <a href="https://nomina.madebyjohan.xyz">en vivo</a><br />
+      <sub>Reglas de ley configurables: regímenes laborales, salario básico, décimos, horas extra e IESS.</sub><br />
       <sub><code>Angular · Express · PostgreSQL</code></sub>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/kiramman-mp3/bifrost"><img src="assets/proyectos/bifrost.jpg" alt="BIFRÖST dashboard" width="100%" /></a><br />
-      <b><a href="https://github.com/kiramman-mp3/bifrost">BIFRÖST</a></b><br />
-      <sub>Android subsystem for Windows 11 in Rust and Tauri. Built openly with AI assistance: spec, review, tests and CI.</sub><br />
-      <sub><code>Rust · Tauri · WHPX · AOSP</code></sub>
     </td>
   </tr>
 </table>
 
-More projects, including early ones, at [madebyjohan.xyz/proyectos](https://madebyjohan.xyz/proyectos).
+Más proyectos, incluidos los más antiguos, en [madebyjohan.xyz/proyectos](https://madebyjohan.xyz/proyectos).
 
-#### Homelab
+---
 
-I host my projects on my own server: Docker Compose behind Cloudflare Tunnel (`*.madebyjohan.xyz`). A deploy script checks `main` every 5 minutes, rebuilds, runs a health check and rolls back if it fails.
+### 🛠️ Tecnologías
 
-#### How I work
+<div align="center">
 
-Every change goes through a pull request with CI green, using Conventional Commits. Unit tests, plus Playwright end to end where it matters. I document technical decisions as ADRs.
+<img src="https://skillicons.dev/icons?i=ts,js,py,rust,angular,react,nodejs,express,nestjs,tauri&perline=10&theme=dark" alt="TypeScript, JavaScript, Python, Rust, Angular, React, Node.js, Express, NestJS y Tauri" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,tailwind,vite,vitest,docker,linux,cloudflare,githubactions&perline=10&theme=dark" alt="PostgreSQL, MySQL, Prisma, Tailwind, Vite, Vitest, Docker, Linux, Cloudflare y GitHub Actions" />
 
-<img src="https://raw.githubusercontent.com/kiramman-mp3/kiramman-mp3/output/tecnologias.svg" alt="Languages I use most across my repositories" width="420" />
+<br/><br/>
 
-#### Education
+<img src="https://raw.githubusercontent.com/kiramman-mp3/kiramman-mp3/output/tecnologias.svg" alt="Lenguajes que más uso en mis repositorios" width="420" />
 
-Software Engineering at Universidad Técnica de Ambato (2027). Full Stack Open (University of Helsinki), IBM SkillsBuild. English C1-.
+</div>
+
+### 🏠 Homelab
+
+Publico mis proyectos en mi propio servidor: Docker Compose detrás de Cloudflare Tunnel (`*.madebyjohan.xyz`). Un script revisa `main` cada 5 minutos, reconstruye, comprueba que el sitio responda y, si falla, vuelve solo a la versión anterior.
+
+### 🤝 Cómo trabajo
+
+Cada cambio pasa por un pull request con la CI en verde y Conventional Commits. Pruebas unitarias y, donde importa, pruebas de punta a punta con Playwright. Documento las decisiones técnicas como ADR.
+
+---
+
+### 🐍 Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiramman-mp3/kiramman-mp3/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiramman-mp3/kiramman-mp3/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente comiendo mis contribuciones" src="https://raw.githubusercontent.com/kiramman-mp3/kiramman-mp3/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+### 🎓 Educación
+
+Ingeniería de Software en la Universidad Técnica de Ambato (2027). Full Stack Open (University of Helsinki), IBM SkillsBuild. Inglés C1-.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2575b,45:5c1a1f,100:0a0405&height=110&section=footer" alt="" width="100%" />
