@@ -82,10 +82,38 @@ Más proyectos, incluidos los más antiguos, en [madebyjohan.xyz/proyectos](http
 
 ### 🛠️ Tecnologías
 
+Las que he usado en mis repositorios, revisando sus dependencias y configuración:
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,rust,angular,react,nodejs,express,nestjs,tauri&perline=10&theme=dark" alt="TypeScript, JavaScript, Python, Rust, Angular, React, Node.js, Express, NestJS y Tauri" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,tailwind,vite,vitest,docker,linux,cloudflare,githubactions&perline=10&theme=dark" alt="PostgreSQL, MySQL, Prisma, Tailwind, Vite, Vitest, Docker, Linux, Cloudflare y GitHub Actions" />
+<table>
+  <tr>
+    <td><b>Lenguajes</b></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=ts,js,py,php,cs,kotlin,rust,html,css,sass" height="40" alt="TypeScript, JavaScript, Python, PHP, C#, Kotlin, Rust, HTML, CSS y Sass" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend y móvil</b></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=angular,react,tailwind,bootstrap,vite" height="40" alt="Angular, React y React Native, Tailwind, Bootstrap y Vite" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,nestjs,laravel,dotnet,fastapi,prisma,tauri" height="40" alt="Node.js, Express, NestJS, Laravel, .NET, FastAPI, Prisma y Tauri" /></td>
+  </tr>
+  <tr>
+    <td><b>Bases de datos</b></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=postgres,mysql,sqlite,redis" height="40" alt="PostgreSQL, MySQL, SQLite y Redis" /></td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=docker,nginx,githubactions,linux,debian,cloudflare,git" height="40" alt="Docker, Nginx, GitHub Actions, Linux, Debian, Cloudflare y Git" /></td>
+  </tr>
+  <tr>
+    <td><b>Pruebas</b></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=vitest,jest" height="40" alt="Vitest y Jest" /></td>
+  </tr>
+</table>
+
+<sub>También: React Native y Expo · Playwright · Odoo · Moodle · Traccar · Leaflet · SQL Server · Zod · JWT · Caddy</sub>
 
 <br/><br/>
 
